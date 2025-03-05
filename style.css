@@ -38,6 +38,9 @@ p {
 	font-size: 1.25rem;
 	margin: 0;
 	padding-bottom: 0.5rem;
+}
+
+p + p {
  text-indent: 1rem;
 }
 
@@ -103,7 +106,6 @@ h3{
     color: var(--secondary-font-color);
     letter-spacing: .5rem;
     text-transform: uppercase;
-    text-indent: 0;
 }
 
 .content-container{
