@@ -103,6 +103,7 @@ h3{
     color: var(--secondary-font-color);
     letter-spacing: .5rem;
     text-transform: uppercase;
+    text-indent: 0;
 }
 
 .content-container{
