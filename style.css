@@ -38,6 +38,7 @@ p {
 	font-size: 1.25rem;
 	margin: 0;
 	padding-bottom: 0.5rem;
+ text-indent: 1rem;
 }
 
 a{
@@ -50,7 +51,7 @@ a:hover {
 
 h1{
 	font-family: 'YoungSerif-Regular', serif;
-	font-size: 3.75rem;
+	font-size: 3.5rem;
 	margin-top: 0.25rem;
 	margin-bottom: 1rem;
 }
