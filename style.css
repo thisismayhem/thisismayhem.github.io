@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'YoungSerif-Regular';
-    src: url('fonts/youngserif.woff2') format('woff2');
+    src: url('fonts/YoungSerif-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'AtkinsonNext';
-    src: url('fonts/atkinsonnext.woff2') format('woff2-variations');
+    src: url('fonts/AtkinsonNext.woff2') format('woff2-variations');
     font-weight: 100 900;
     font-style: normal;
 }
