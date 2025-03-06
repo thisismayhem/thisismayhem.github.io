@@ -52,14 +52,7 @@ a:hover {
 	opacity: 0.8;
 }
 
-h1{
-	font-family: 'YoungSerif-Regular', serif;
-	font-size: 3.5rem;
-	margin-top: 0.25rem;
-	margin-bottom: 1rem;
-}
-
-h2{
+h1, h2{
 	font-family: 'YoungSerif-Regular', serif;
 	font-size: 2.75rem;
 	margin-top: 0.25rem;
