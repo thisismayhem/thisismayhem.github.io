@@ -21,7 +21,7 @@
 }
 
 body{
-	background: #FFE5A0;
+	/* background: #FFE5A0; */
 	background-image: radial-gradient(ellipse at left top, #FFE5A0 0%, #FFCFA2 50%, #FD958C 100%);
     background-attachment: fixed;
     background-size: cover;
