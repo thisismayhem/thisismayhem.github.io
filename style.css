@@ -29,7 +29,7 @@ body{
     font-family: 'AtkinsonNext', sans-serif;
     font-weight: 400;
     color: var(--primary-font-color);
-    line-height: 1.4;
+    line-height: 1.5;
 	-webkit-font-smoothing: antialiased; 
     -moz-osx-font-smoothing: grayscale;
 }
