@@ -39,7 +39,7 @@ p {
     	font-weight: 400;
 	font-size: 1.25rem;
 	margin: 0;
-	padding-bottom: 0.5rem;
+	padding-bottom: 0.75rem;
 }
 
 p + p {
@@ -57,7 +57,6 @@ a:hover {
 h1, h2{
 	font-family: 'YoungSerif-Regular', serif;
 	font-size: 2.75rem;
-	margin-top: 0.25rem;
 	margin-bottom: 1rem;
 }
 
